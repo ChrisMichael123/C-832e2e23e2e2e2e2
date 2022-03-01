@@ -1,0 +1,19 @@
+body{
+    background-color: lightgreen;
+}
+.heading{
+    width: 100%;
+    color: black;
+    font-family: 'Trebuchet MS';
+    font-size: 22px;
+}
+.object_name{
+    color: green;
+    font-size: 18px;
+}
+#webcam{
+    width: 350px;
+    height: 400px;
+    border-style: dashed;
+    border-color: yellow;
+}
